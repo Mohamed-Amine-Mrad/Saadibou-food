@@ -1,4 +1,4 @@
-# Saadibou: Food Delivery Web App
+# Saadibou: Food ordering Web App
 
 A full-stack food ordering platform for a Tunisian restaurant, with a customer storefront, an admin dashboard, and a REST API. Built in April 2025.
 
