@@ -33,7 +33,13 @@ A full-stack food ordering platform for a Tunisian restaurant, made of a custome
 ## 🎬 Demo
 
 <p align="center">
-  ▶️ A full 8-minute video demo of the platform is coming soon.
+  <a href="https://www.youtube.com/watch?v=k0HYru1RKEc">
+    <img src="https://img.youtube.com/vi/k0HYru1RKEc/maxresdefault.jpg" alt="Watch the Saadibou demo" width="80%">
+  </a>
+</p>
+
+<p align="center">
+  ▶️ Click the image to watch the full demo (8 min)
 </p>
 
 <p align="center">
